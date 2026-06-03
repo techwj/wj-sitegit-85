@@ -1,0 +1,59 @@
+{
+  "siteId": "bestie-trip-plan",
+  "generatedAt": "2026-06-02T19:22:08.100662",
+  "categories": [
+    "beginner-bestie-trip-plan",
+    "advanced-bestie-trip-plan",
+    "tips-bestie-trip-plan",
+    "history-bestie-trip-plan",
+    "trending-bestie-trip-plan",
+    "tutorials-bestie-trip-plan"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-bestie-trip-plan",
+      "category_name": "Beginner Bestie Trip Plan"
+    },
+    {
+      "category_slug": "advanced-bestie-trip-plan",
+      "category_name": "Advanced Bestie Trip Plan"
+    },
+    {
+      "category_slug": "tips-bestie-trip-plan",
+      "category_name": "Bestie Trip Plan Tips"
+    },
+    {
+      "category_slug": "history-bestie-trip-plan",
+      "category_name": "Bestie Trip Plan History"
+    },
+    {
+      "category_slug": "trending-bestie-trip-plan",
+      "category_name": "Trending Bestie Trip Plan"
+    },
+    {
+      "category_slug": "tutorials-bestie-trip-plan",
+      "category_name": "Bestie Trip Plan Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "bestie-trip-plan",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Bestie Trip Plan Central",
+    "articles_per_row": 2
+  }
+}
